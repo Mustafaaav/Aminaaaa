@@ -1,0 +1,539 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	text-decoration: none;
+	list-style: none;
+	font-family: cursive;
+
+}
+
+.navbar{
+	width: 100%;
+	position: fixed;
+	background-color: crimson;
+	padding: 15px 0px;
+
+}
+.navbar .max-width{
+
+	width: 1300px;
+	display: flex;
+	justify-content: space-between;
+	margin: auto;
+	align-content: auto;
+}
+.logo a{
+	color: #fff;
+	font-size: 40px;
+	font-weight: 500;
+}
+//////////////////////////////*******************************************************************///////////////////////////////////////////////////////////////
+.logo span{
+	color: #000;
+}
+.menu li{
+	display: inline-block;
+}
+.menu{
+	padding-top: 10px;
+}
+.menu li a{
+	color: white;
+	font-size: 20px;
+	font-weight: 200;
+	font-family: script;
+	margin-left: 15px;
+	margin-right: 100px;
+	transition: color 1s;
+	}
+	
+
+
+.menu li a:hover{
+	color: purple;
+	}
+	//////////////////////////////*******************************************************************///////////////////////////////////////////////////////////////
+
+
+
+
+.home{margin-top: 70px;
+	width:100%;
+
+	
+}
+
+	.text1{padding-top: 100px;
+		margin-left: 250px;
+	
+	}
+
+
+.titre{width:500px;
+		height:5px;
+}
+.text2{margin-top: 80px;
+		margin-left: 250px;
+}
+
+
+.text3{margin-left: 250px;
+	margin-top: 45px;
+}
+.propos{width: 480px;
+	height: :15px;
+	color:red;
+	font-weight: 10px;
+}
+
+//////////////////////////////////////****************************************************////////////////////////////////////////////////////////
+
+
+
+
+		.left{text-align: left;
+		}
+
+.right{text-align:right;
+}
+		.image1{width:480px;
+				height: 300px;
+				object-fit: cover;
+				background-attachment: fixed;
+		}
+
+		
+
+		.image2{width:480px;
+				height: 300px;
+				object-fit: cover;
+				background-attachment: fixed;
+		}
+
+		.image3{width:480px;
+				height: 300px;
+				object-fit: cover;
+				background-attachment: fixed;
+		}
+
+
+	.pole{margin-top: 50px;
+	margin-left: 250px;
+
+
+
+	}
+/////////////////////////////////////////////**********************************************//////////////////////////////////////////////////
+	
+.tout4 {margin-top: 10px;
+		
+		background-image: url('file:///C:/Users/MONEY%20EXPRESS/Pictures/polh13.jpg');
+	width:100%;
+		height:350px;
+	}
+
+
+.div4{margin-left: 30px;
+}
+
+.polh27{height: 300px;
+	width:450px;
+	object-fit: cover;
+	
+	}
+
+
+
+.polh21{height: 300px;
+	width:450px;
+object-fit: cover; 
+	}
+
+.text4{margin-top: 10px;
+
+}
+
+.imtec{padding-top: 10px;
+	margin-top: 20px;
+		margin-left: 70px;
+		font-weight: 30px;
+		 }
+					
+
+.imtec1{margin-top: 30px;
+		margin-left: 70px;
+		font-weight: 100px;
+		color:purple;
+		 }
+
+
+
+
+.imtec2{margin-top: 30px;
+		margin-left: 15px;
+		width: 425px;
+		padding-left: 15px;
+		padding-top: 20px;
+		padding-bottom: 20px;
+
+
+		
+		border: 2px solid black;
+		border-radius: 20px;
+		color:maroon;
+		
+		 }
+
+
+		 .back{width: 100%;
+		 	height: 200px;
+		 	background: maroon;
+		 	margin-top: 30px;
+		 }
+
+.texte1{padding-top: 50px;
+		margin-left: 500px;
+			font-weight:50px;
+			color:white;
+
+		}
+
+
+
+.texte2{padding-top: 20px;
+		margin-left: 480px;
+			font-weight:200px;
+				word-spacing: 15px;
+			color:white;
+
+
+		}
+
+
+
+		.imtec3{margin-top: 20px;
+		margin-left: 500px;
+		width: 200px;
+		padding-left: 30px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+
+
+		border: 2px solid white;
+		border-radius: 10px;
+		color:maroon;
+		background: white;
+	}
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	.gerer{
+		margin-top:30px;
+			width:100%;
+			height:200px;
+			
+	background:gray;
+
+	}
+
+
+
+	.pter1{margin-left: 400px;
+			padding-top: 30px;
+			font-weight: 120px;
+
+		}
+	
+
+	.pter2{margin-left: 400px;
+			margin-top: 30px;
+			width:400px;
+
+
+		
+		}
+
+	.pter4{
+			margin-top: 5px;
+			font-size: 225px;
+			font-family: uppercase;
+			word-spacing: 15px;
+		
+				font-weight: bold;
+				color:olive;
+				
+		}
+
+	.pter5{margin-left: 200px;
+		padding-top: 10px;
+				width: 900px;
+		
+		
+	font-size: 50px;
+	font-family: bold;
+
+		
+		
+		}
+
+
+.imtec4{margin-left: 380px;
+			width:250px;
+			height:50px;
+			border:2px solid red;
+			padding-top:5px;
+			padding-left: 30px; 
+			border-radius:30px;
+		}
+
+//////////////////////////////////////////////////************************************/////////////////////////////////////////////////////////
+
+.some {margin-top: 100px;
+	width: 800px;
+	height: 1000px;
+	border:25px solid red;
+
+}
+
+.tope{padding-top: 90px;
+	margin-top: 50px;
+	width: 100%;
+	height: 190px;
+	margin-bottom: 70px;
+	background: maroon;
+	}
+
+
+
+.tope img{margin-left: 500px;
+	margin-top: 10px;
+	
+
+}
+
+	.inma{width: 200px;
+			height: 100px;
+			border-radius: 50px;
+			object-fit: cover;
+			padding-top: 20px;
+		}
+
+		.partie1{margin-left: 520px;
+			margin-bottom: 40px;
+		}
+
+
+		.pot1{font-size: 15px;
+				color:maroon;
+				width:350px;
+				font-weight: bold;
+			}
+
+.partie2{height: 210px;
+	padding-top: 30px;
+	width: 100%;
+	background-color: maroon;
+}
+.partie2 p{padding-left: 500px;
+			font-size: 25px;
+			color:olive;
+
+
+}
+
+///////////////////////////////////////////////////////////////////////////////////////**************************************/////////////////////
+
+
+.train{margin-left: 400px;
+		margin-top:10px;	
+				padding-top: 5px;
+				background-color: olive;
+}
+
+.loge1{margin-left: 500px;
+
+	padding-top: 30px;
+	font-weight: bold;
+				font-size: 45px;
+				font-family: script;
+				margin-top: 50px;
+				}
+
+
+
+				.loge2{width: 270px;
+					margin-left: 480px;
+					font-size: 15px;
+					padding-top: 10px;
+				}
+
+.loger{margin-top: 35px;
+}
+
+
+				.loge3{width: 350px;
+					height: 10px;
+					margin-left: 500px;
+					font-size: 15px;
+					margin-top: 45px;
+					border:2px solid black ;
+					padding: 10px;
+					border-radius: 10px;
+				}
+
+
+				.gerant1{margin-top: 50px;
+							margin-left: 500px;
+							
+							}
+
+
+
+							.gerant1 img p{padding-left: 500px;
+										width: 200px;
+										height: 10px;
+
+
+							}
+							.gerant1 p{font-size: 25px;
+											font-weight: bold;
+										}
+
+
+										.gerant11{margin-left: 500px;
+											width: 200px;
+										height: 40px;
+
+										font-size: 25px;
+											
+										}
+
+
+										.gerant12{margin-left: 500px;
+										
+												width: 200px;
+										height: 30px;
+										font-family: script;
+										font-weight: bold;
+
+									}
+
+
+.gerant21{margin-left: 500px;
+										
+			width: 200px;
+			height: 30px;
+			padding-top: 40px;
+			font-size: 25px;
+				
+									}
+
+
+.gerant22{margin-left: 500px;
+										
+				width: 250px;
+					height: 30px;
+					font-family: script;
+					font-weight: bold;
+
+									}
+
+
+									.gerant22 span{color:yellow;
+									}
+///////////////////////////////////*************************************************************************************************////////////////////
+
+.some1{margin-top: 30px;
+}
+
+.para{margin-top: 70px;
+}
+
+.para1{margin-left: 500px;
+	padding-top: 50px;
+			width:500px;
+			height:20px;
+			border:2px solid black;
+
+			padding: 20px;
+			border-radius: 15px;
+			color:maroon;
+}
+
+.para2{margin-top: 50px;
+
+}
+.para21{width:550px;
+		height:450px;
+					object-fit: cover;
+		margin-left: 380px;
+		margin-top: 30px;
+		}
+
+
+
+
+.textl{width:100%;
+height:500px;
+background: black;
+}
+
+
+		.texte5{width: 
+	padding-left: 100px;
+	justify-content: justify;
+	color:red;
+	font-size: 30px;
+	text-align: left;
+	color:red;
+	background: black;
+}
+
+
+
+.pot1{margin-top: 20px;
+}
+
+
+.i1{margin-left: 100px;
+	width:100px;
+	height:150px;
+margin-top: 30px;
+}
+
+
+.i2{padding-left: 20px;
+	width:100px;
+	height:150px;
+margin-top: 30px;
+}
+
+.i3{padding-left: 20px;
+	width:100px;
+	height:150px;
+margin-top: 30px;
+}
+
+
+
+.i4{padding-left: 20px;
+	width:100px;
+	height:150px;
+margin-top: 30px;
+}
+
+
+.plt1{font-size: 25px;
+font-family: script;
+padding-left: 200px;
+padding-top: 100px;
+}
+
+
+
+
+.darly{padding-left: 200px;
+	width:100px;
+	height:150px;
+margin-top: 30px;
+}

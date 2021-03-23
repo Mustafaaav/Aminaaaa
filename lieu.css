@@ -1,0 +1,87 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	text-decoration: none;
+	list-style: none;
+	font-family: cursive;
+
+}
+
+.navbar{
+	width: 100%;
+	position: fixed;
+	background-color: crimson;
+	padding: 15px 0px;
+
+}
+.navbar .max-width{
+
+	width: 1300px;
+	display: flex;
+	justify-content: space-between;
+	margin: auto;
+	align-content: auto;
+}
+.logo a{
+	color: #fff;
+	font-size: 40px;
+	font-weight: 500;
+}
+//////////////////////////////*******************************************************************///////////////////////////////////////////////////////////////
+.logo span{
+	color: #000;
+}
+.menu li{
+	display: inline-block;
+}
+.menu{
+	padding-top: 10px;
+}
+.menu li a{
+	color: white;
+	font-size: 20px;
+	font-weight: 200;
+	font-family: script;
+	margin-left: 15px;
+	margin-right: 100px;
+	transition: color 1s;
+	}
+	
+
+
+.menu li a:hover{
+	color: purple;
+	}
+
+
+///////////////////////////************************/////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	.imgf{background: url('file:///C:/Users/MONEY%20EXPRESS/Downloads/emil-widlund-rluD0eAfEkY-unsplash.jpg');
+
+					background-repeat:no-repeat;
+					display:flex;
+					height:50%;
+					width:100%;
+					object-fit: cover;
+
+
+
+}
+
+.imgf{padding-top: 200px;
+}
+
+
+.portion{margin-top: 200px;
+}
+
+.text1{margin-top: 100px;
+	padding-top: 100px;
+}
+
+.text21{margin-left: 100px;
+	padding-left: 80px;
+}

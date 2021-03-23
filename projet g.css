@@ -1,0 +1,525 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	text-decoration: none;
+	list-style: none;
+	font-family: cursive;
+
+}
+
+.navbar{
+	width: 100%;
+	position: fixed;
+	background-color: crimson;
+	padding: 15px 0px;
+
+}
+.navbar .max-width{
+
+	width: 1300px;
+	display: flex;
+	justify-content: space-between;
+	margin: auto;
+	align-content: auto;
+}
+.logo a{
+	color: #fff;
+	font-size: 40px;
+	font-weight: 500;
+}
+.logo span{
+	color: #000;
+}
+.menu li{
+	display: inline-block;
+}
+.menu{
+	padding-top: 10px;
+}
+.menu li a{
+	color: white;
+	font-size: 20px;
+	font-weight: 200;
+	font-family: script;
+	margin-left: 15px;
+	margin-right: 100px;
+	transition: color 1s;
+	
+	
+
+}
+
+.menu li a:hover{
+	color: purple;
+	}
+	
+	.img{background: url('file:///C:/Users/MONEY%20EXPRESS/Pictures/gettyimages-452357707-612x612.jpg');
+
+					background-repeat:no-repeat;
+					display:flex;
+					height:100%;
+					width:100%;
+					
+
+
+
+}
+
+///////////////////////////////*****************************************/////////////////////////////////////************************/////////////////////////
+
+.some{width:100%;
+	height:300px;
+	margin-top: 50px;
+}
+
+.left p a{text-align: left;
+
+		
+}
+
+
+.left{margin-top: 50px;
+		margin-left: 30px;
+		
+		
+			
+}
+
+.text1{width:200px;
+		
+		justify-content: justify;
+		color:olive;
+		
+		
+
+
+}
+
+
+.right img{text-align: right;
+			position:right;
+
+		}
+
+		.right{
+		margin-top: 70px;
+		margin-right: 30px;
+		margin-left: 110px;
+		}
+
+
+		.image1{width:200px;
+				height: 150px;
+			}
+
+
+
+//////////////////////////////////////*************************************************************************///////////////////////////////////////
+
+
+
+
+
+.about{width:100%;
+		height:300px;
+		margin-top: 50px;
+}
+
+.div-left p a{text-align: left;
+
+		
+}
+
+
+.div-left{margin-top: 30px;
+		margin-left: 30px;
+		
+		
+			
+}
+
+.text2{width:200px;
+		
+		justify-content: justify;
+		color:olive;
+		
+		
+		
+
+
+}
+
+
+.div-right img{text-align: right;
+			position:right;
+
+		}
+
+		.div-right{
+		margin-top: 70px;
+		margin-right: 70px;
+		margin-left: 60px;
+		}
+
+
+		.image2{width:200px;
+				height:150px;
+				border:20px;
+
+				padding-left: 90px;
+
+
+
+			}
+
+
+////////////////////////////////////**************************************************************////////////////////////////////////////////
+
+
+
+
+
+.inpout{width:100%;
+		height:300px;
+		margin-top: 50px;
+}
+
+.gauche p a{text-align: left;
+
+		
+}
+
+
+.gauche{margin-top: 30px;
+		margin-left: 30px;
+		
+		
+			
+}
+
+.text3{width:200px;
+		
+		justify-content: justify;
+		color:olive;
+		
+		
+
+
+}
+
+
+.droite img{text-align: right;
+			position:right;
+
+		}
+
+		.droite{
+		margin-top: 70px;
+		margin-right: 40px;
+		margin-left: 50px;
+		}
+
+
+		.image3{width:200px;
+				height:150px;
+				border:20px;
+
+
+
+
+			}
+
+
+
+
+///////////////////////////////////**************************************************************//////////////////////////////////////////////
+
+
+
+
+.outpout{width:100%;
+		height:300px;
+		margin-top: 50px;
+}
+
+.divisiong p a{text-align: left;
+
+		
+}
+
+
+.divisiong{margin-top: 30px;
+		margin-left: 30px;
+		
+		
+			
+}
+
+.text4{width:200px;
+		
+		justify-content: justify;
+		color:olive;
+		
+		
+
+
+}
+
+
+.divisiond img{text-align: right;
+			position:right;
+
+		}
+
+		.divisiond{
+		margin-top: 70px;
+		margin-right: 50px;
+		margin-left: 30px;
+		}
+
+
+		.image4{width:200px;
+				height:150px;
+				border:20px;
+
+
+
+
+			}
+
+
+/////////////////////////////////************************************************/////////////////////////////////////////////////////////////
+
+
+
+
+
+.outpout1{width:100%;
+		height:300px;
+		margin-top: 50px;
+		
+}
+
+.divisiong1 p a{text-align: left;
+					
+
+		
+}
+
+
+.divisiong1{margin-top: 30px;
+		margin-left: 30px;
+		
+		
+			
+}
+
+.text5{width:200px;
+		
+		justify-content: justify;
+		color:olive;
+		
+		
+
+
+}
+
+
+.divisiond1 img{text-align: right;
+			position:right;
+
+
+		}
+
+		.divisiond1{
+		margin-top: 70px;
+		margin-right: 50px;
+		margin-left: 250px;
+		}
+
+
+		.image5{width:200px;
+				height:150px;
+				border:20px;
+
+
+
+
+			}
+
+//***************************//////////////////////////////////////////////***********************************//////////////////////////////
+
+
+
+
+.fort{margin-top: 100px;
+}
+
+.li{width:35px;
+height: 5px;
+border:3px solid blue;
+border-radius: 15px;
+}
+
+
+
+.po{width:35px;
+height: 5px;
+border:3px solid blue;
+border-radius: 15px;
+}
+
+
+
+.ol{width:35px;
+height: 5px;
+border:3px solid blue;
+border-radius: 15px;
+}
+
+
+
+.os{width:35px;
+height: 5px;
+border:3px solid blue;
+border-radius: 15px;
+}
+
+
+
+.so{width:35px;
+height: 5px;
+border:3px solid blue;
+border-radius: 15px;
+}
+
+
+.co{width:35px;
+height: 5px;
+border:3px solid blue;
+border-radius: 15px;
+
+}
+
+
+.fort p a:hover{color:red;
+	background-color: black;
+}
+
+//////////////////////////////****************************************///////////////////////////////////////////////////////////////
+
+
+.dear{margin-top: 25px;
+	display: inline-block;
+} 
+
+.title{text-align: center;
+		margin-top: 25px;
+}
+
+
+	
+	.gauche1{text-align: center;
+
+			}
+
+			.gauche1{margin-top: 20px;
+					margin-left: 10px;}
+
+	.zp{width:400px;
+			height:300px;
+			border-radius: 20px;
+		}
+
+
+			
+	
+
+
+
+.mk{width:300px;
+			height:300px;
+			
+	}
+	//////////////////////////////////********************************************////////////////////////////////////////////////////////////////
+
+
+
+.french img{text-align: center;
+
+}
+
+
+.french{margin-top: 15px;
+
+
+}
+
+
+
+.ou{object-fit: cover;
+}
+
+.ou{ width:400px;
+			height:300px;
+			border-radius: 10px;
+
+		}
+
+
+		.qs{text-align: center;
+		}
+
+///////////////////////////////////////////////////****************************************///////////////////////////////////////////////////////
+
+
+.textl{width:100%;
+height:500px;
+background: black;
+}
+
+
+		.texte{width: 
+	padding-left: 100px;
+	justify-content: justify;
+	color:red;
+	font-size: 30px;
+	text-align: left;
+	color:red;
+	background: black;
+}
+
+
+
+.pot1{margin-top: 20px;
+}
+
+
+.i1{margin-left: 100px;
+	width:100px;
+	height:150px;
+margin-top: 30px;
+}
+
+
+.i2{padding-left: 20px;
+	width:100px;
+	height:150px;
+margin-top: 30px;
+}
+
+.i3{padding-left: 20px;
+	width:100px;
+	height:150px;
+margin-top: 30px;
+}
+
+
+
+.i4{padding-left: 20px;
+	width:100px;
+	height:150px;
+margin-top: 30px;
+}
+
+
